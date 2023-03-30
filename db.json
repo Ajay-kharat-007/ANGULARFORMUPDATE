@@ -1,0 +1,11 @@
+{
+  "users" : [
+    {
+      "id" : "admin",
+      "name" : "Ajay Kharat",
+      "phone" : 8857822354,
+      "email" : "kharatajay314@gmail.com",
+      "password" : "Ajay@123"
+    }
+  ]
+}
